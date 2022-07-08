@@ -1,0 +1,27 @@
+https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/#36.-Time-Series-with-Peaks-and-Troughs-Annotated
+
+color palette
+https://color.adobe.com/explore?page=8
+
+
+/* Color Theme Swatches in Hex */
+$Concept-Art-1-hex: #8C4660;
+$Concept-Art-2-hex: #7988D9;
+$Concept-Art-3-hex: #252940;
+$Concept-Art-4-hex: #54628C;
+$Concept-Art-5-hex: #F2AEAE;
+
+/* Color Theme Swatches in RGBA */
+$Concept-Art-1-rgba: rgba(140,70,95, 1);
+$Concept-Art-2-rgba: rgba(121,135,216, 1);
+$Concept-Art-3-rgba: rgba(36,40,63, 1);
+$Concept-Art-4-rgba: rgba(84,98,140, 1);
+$Concept-Art-5-rgba: rgba(242,174,174, 1);
+
+/* Color Theme Swatches in HSLA */
+$Concept-Art-1-hsla: hsla(337, 33, 41, 1);
+$Concept-Art-2-hsla: hsla(230, 55, 66, 1);
+$Concept-Art-3-hsla: hsla(230, 26, 19, 1);
+$Concept-Art-4-hsla: hsla(225, 25, 44, 1);
+$Concept-Art-5-hsla: hsla(0, 72, 81, 1);
+
